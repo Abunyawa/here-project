@@ -1,0 +1,2 @@
+id,address1,address2,latitude,longitude,has_cardomat,is_open,workload,city
+53,"пр. Сатпаева, д. 119, кв. 2","ост. ""Акимат"", напротив Акимата",47.9073093684916,67.5263216415246,False,True,"{'text': 'Ожидание до 30 мин', 'type': 'medium'}",Сатпаев

@@ -1,0 +1,2 @@
+id,address1,address2,latitude,longitude,has_cardomat,is_open,workload,city
+95,"ул. Байтурсынова, д. 19В","рядом с ГУ ""КАЗНАЧЕЙСТВО Шиелийского р-на"" и ТД БОТА",44.168,66.7325,True,True,"{'text': 'Ожидание до 10 мин', 'type': 'low'}",Шиели
