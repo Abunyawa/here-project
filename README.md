@@ -1,7 +1,1 @@
-List of libraries:
-	pandas
-	geopandas
-	requests
-	beautiful soup
-	
-
+Install everything from requirements.txt
