@@ -1,1 +1,7 @@
-You should install all required packages in requirements.txt.
+List of libraries:
+	pandas
+	geopandas
+	requests
+	beautiful soup
+	
+
