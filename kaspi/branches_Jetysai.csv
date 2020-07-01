@@ -1,2 +1,0 @@
-id,address1,address2,latitude,longitude,has_cardomat,is_open,workload,city
-196,"ул. Ауэзова, д. 22Г",возле ТД Елдос и отделения Казпочты,40.7767,68.3282,True,True,"{'text': 'Ожидание до 10 мин', 'type': 'low'}",Жетысай

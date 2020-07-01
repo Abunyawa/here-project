@@ -1,0 +1,2 @@
+id,address1,address2,latitude,longitude,has_cardomat,is_open,workload,city
+3,"ул. 50 лет Октября, д. 60а","уг. ул. Корчагина, ост. ""Бак-бак""",52.968981,63.091538,False,True,"{'text': 'Ожидание до 30 мин', 'type': 'medium'}",Рудный

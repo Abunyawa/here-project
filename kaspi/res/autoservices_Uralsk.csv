@@ -1,0 +1,3 @@
+id,name,address1,address2,latitude,longitude,extra_info,is_open,city
+78,Ural Car City,"4 мкр-н, д. 28","остановка ""4 мкр-н"", под мостом",51.241105,51.433546,,True,Уральск
+111,Guber service,"ул. Вокзальная, д. 8","остановка ""ж/д вокзал""",51.2275,51.3666,,True,Уральск

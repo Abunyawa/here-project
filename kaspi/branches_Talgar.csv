@@ -1,2 +1,0 @@
-id,address1,address2,latitude,longitude,has_cardomat,is_open,workload,city
-127,"ул. Кунаева, б/н","уг. ул. Малькеева, возле супермаркета Small",43.3036313432071,77.2342643730155,True,True,"{'text': 'Ожидание до 10 мин', 'type': 'low'}",Талгар

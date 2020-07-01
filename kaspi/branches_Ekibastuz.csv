@@ -1,3 +1,0 @@
-id,address1,address2,latitude,longitude,has_cardomat,is_open,workload,city
-201,"ул. Ауэзова, д. 30",напротив ТРЦ Maxi Mall,51.7294,75.3207,True,True,"{'text': 'Ожидание до 10 мин', 'type': 'low'}",Экибастуз
-200,"ул. М.Жусупа, д. 72А",,51.7194208550358,75.3307398730453,False,True,"{'text': 'Ожидание до 10 мин', 'type': 'low'}",Экибастуз

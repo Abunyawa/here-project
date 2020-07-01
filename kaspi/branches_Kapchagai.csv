@@ -1,2 +1,0 @@
-id,address1,address2,latitude,longitude,has_cardomat,is_open,workload,city
-126,"3 мкр-н, д. 6","ул. Абая, уг. ул. Жамбыла, возле магазина Юбилейный",43.8528103013373,77.0565369137799,True,True,"{'text': 'Ожидание свыше 30 мин', 'type': 'high'}",Капчагай

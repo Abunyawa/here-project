@@ -1,2 +1,0 @@
-id,address1,address2,latitude,longitude,has_cardomat,is_open,workload,city
-124,"ул. Алматинская, д. 114/132","уг. ул. Абая, в здании ресторана Шынар",43.3538,77.4655,True,True,"{'text': 'Ожидание до 10 мин', 'type': 'low'}",Есик

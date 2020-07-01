@@ -1,2 +1,0 @@
-id,address1,address2,latitude,longitude,has_cardomat,is_open,workload,city
-68,"пр. Абая Кунанбаева, д. 58",рядом с ТД Табыс,49.7028890592989,72.5989791448196,False,True,"{'text': 'Ожидание до 10 мин', 'type': 'low'}",Шахтинск

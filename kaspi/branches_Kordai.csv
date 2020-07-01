@@ -1,2 +1,0 @@
-id,address1,address2,latitude,longitude,has_cardomat,is_open,workload,city
-88,"ул. Жибек Жолы, д. 268","в здании кафе ""Панорама""",43.0454254903186,74.7079541017904,True,True,"{'text': 'Ожидание до 10 мин', 'type': 'low'}",Кордай
