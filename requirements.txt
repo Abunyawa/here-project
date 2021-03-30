@@ -50,7 +50,7 @@ proxybroker==0.3.2
 pycares==3.1.1
 pycparser==2.20
 pyee==7.0.2
-Pygments==2.6.1
+Pygments==2.7.4
 pyppeteer==0.2.2
 pyproj==2.6.1.post1
 pyquery==1.4.1
